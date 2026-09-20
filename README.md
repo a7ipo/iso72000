@@ -62,15 +62,6 @@
 │   ├── Security Configuration Standard.docx
 │   └── Business Continuity and Disaster Recovery Plan.docx
 │
-├── 02 حزمة أدلة التقييم والمحاكاة
-│   ├── 01_Traceability_Matrix_and_Submission_Index.xlsx
-│   ├── 02_External_Audit_Plan.docx
-│   ├── 03_External_Audit_Report.docx
-│   ├── 04_Corrective_Action_Plan.docx
-│   ├── 05_Test_Evidence_Pack.docx
-│   ├── 06_Team_Work_Log_and_Meeting_Minutes.docx
-│   └── 07_Audit_Checklist.docx
-
 
 
 ## 👥 فريق خبراء التنفيذ (Implementation Team)
